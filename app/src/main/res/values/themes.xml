@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ReceiverDemo" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/rd_primary</item>
+        <item name="colorPrimaryDark">@color/rd_primary_dark</item>
+        <item name="colorAccent">@color/rd_accent</item>
+    </style>
+</resources>
